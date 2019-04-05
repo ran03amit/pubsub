@@ -9,7 +9,6 @@ Problem statement for Rails assignment.
 
 Clone the repository and run the following commands
 
-<p>bundle install</p>
 <p>./bin/setup</p>
 <p>./bin/cable</p>
 <p>In a separate terminal run ./bin/rails server</p>
